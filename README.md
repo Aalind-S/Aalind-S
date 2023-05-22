@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1dsWTfsABciLChZm8LmolbArj-HzLzMiH/view?usp=sharing](https://drive.google.com/file/d/1dsWTfsABciLChZm8LmolbArj-HzLzMiH/view?usp=sharing)
 
-- 💬 Ask me about **Python and Django**
+- 💬 Ask me about **Python, Django and Backend Development**
 
 - 📫 How to reach me **singhalind2000@gmail.com**
 
