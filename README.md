@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **singhalind2000@gmail.com**
 
-- 📄 Know more about me and my experiences [https://drive.google.com/file/d/1dsWTfsABciLChZm8LmolbArj-HzLzMiH/view?usp=sharing](https://drive.google.com/file/d/1dsWTfsABciLChZm8LmolbArj-HzLzMiH/view?usp=sharing)
+- 📄 Know more about me and my experiences [Resume](https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
