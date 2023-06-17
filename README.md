@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1dsWTfsABciLChZm8LmolbArj-HzLzMiH/view?usp=sharing](https://drive.google.com/file/d/1dsWTfsABciLChZm8LmolbArj-HzLzMiH/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view](https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view)
 
 - 💬 Ask me about **Python, Django and Backend Development**
 
 - 📫 How to reach me **singhalind2000@gmail.com**
 
-- 📄 Know more about me and my experiences [Resume](https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view)
+- 📄 Know more about me and my experiences [https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view](https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
