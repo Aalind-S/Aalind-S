@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aalind Singh</h1>
 <h3 align="center">A passionate backend developer from India looking for opportunities</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **GoLang**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view](https://drive.google.com/file/d/1H9Og4F6Ro8UxNksvxRcxPxrCnxKm26KR/view)
 
